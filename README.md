@@ -1,4 +1,4 @@
-Olá meu nome é Esther Costa
+## Olá meu nome é Esther Costa
 🎓 Estudante de Ciência da Computação
 💻 Apaixonada por [analise de dados, desenvolvimento web e tecnologia] 
 🚀 Sempre aprendendo e construindo projetos para resolver problemas reais.
