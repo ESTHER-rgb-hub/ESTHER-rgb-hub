@@ -44,7 +44,7 @@ e estou aqui para entender melhor esse impacto e contribuir com soluções que f
 
 ## 🌟 Projetos em Destaque
 
-https://github.com/ESTHER-rgb-hub/EstherCosta23
+https://github.com/ESTHER-rgb-hub/app-skillPath-prototype
 
 ---
 
